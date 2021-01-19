@@ -1,2 +1,2 @@
-# hello-world
+# nextjs-blog
 My first repository on GitHub.
